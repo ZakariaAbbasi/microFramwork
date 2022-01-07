@@ -1,0 +1,17 @@
+{
+    "name": "zakaria75/microfram.php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Zakaria Abbasi",
+            "email": "zakaria_abbasi@yahoo.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
